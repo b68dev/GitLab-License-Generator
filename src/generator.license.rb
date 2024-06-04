@@ -74,9 +74,9 @@ license = Gitlab::License.new
 
 # don't use gitlab inc, search `gl_team_license` in lib for details
 license.licensee = {
-  "Name"    => "Tim Cook",
-  "Company" => "Apple Computer, Inc.",
-  "Email"   => "tcook@apple.com"
+  "Name"    => "Jyotirmoy Bandyopadhayaya",
+  "Company" => "B68 Dev",
+  "Email"   => "gitlab@b68.dev"
 }
 
 # required of course
